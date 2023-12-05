@@ -1,4 +1,5 @@
-def pow(a, b):
-    result = a^b
+def pow (a, b):
+    result = a ** b
     return result
+
   
