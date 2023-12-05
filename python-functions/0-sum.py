@@ -1,12 +1,8 @@
-def addNumber():
-    print (1 + 2)
-addNumber()
-def addNumber():
-    print(98 + 0)
-addNumber()
-def addNumber():
-    print(100+ -2)
-addNumber()
-def addNumber():
-    print(0 + 0)
-addNumber()
+def add(a,b):
+    result = a + b
+    return result
+print(add(1,2))
+print(add(98,0))
+print(add(100,-2))
+
+
