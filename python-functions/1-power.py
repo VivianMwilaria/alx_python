@@ -1,4 +1,4 @@
 def pow(a, b):
     result = a ^ b
-    print(result)
+    print(result.pow(a, b))
   
