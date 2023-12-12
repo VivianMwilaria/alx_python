@@ -1,1 +1,1 @@
-a = 'very good'
+a = 100
