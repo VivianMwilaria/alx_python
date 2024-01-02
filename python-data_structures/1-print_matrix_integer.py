@@ -5,4 +5,4 @@ def print_matrix_integer(matrix=[[]]):
         for element in row:
             # Use str.format() to print integers without casting to strings
             print("{:d}".format(element), end=" ")
-        print()  # Move to the next line after printing each row
+    print()  # Move to the next line after printing each row
