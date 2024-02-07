@@ -1,5 +1,3 @@
-"""Update private attribute"""
-
 class Square:
     """
     This class represents a square.
